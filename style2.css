@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing:border-box;
+
+}
+
+.dmitcon{
+    margin: center;
+    text-align: center;
+    margin-left: -200px;
+    margin-top: 100px;
+
+}
+
+.franchise{
+    background-color: aquamarine;
+    margin-left: 550px;
+    width: 400px;
+    text-align: center;
+    margin-top: 50px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.parent{
+    background-color: aqua;
+    margin-left: 550px;
+    margin-top: 50px;
+    width: 400px;
+    text-align: center;
+    height: 300px;
+    border-radius: 10px;
+}
